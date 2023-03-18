@@ -31,9 +31,10 @@ Overall, the Sega Gun Sense Board was a critical component in many popular light
 ## Firmware
 
 There are 3 known firmware revisions for the 838-13146 and 838-13143-## boards:
-epr-20006a
-epr-21262
-tg12
+
+EPR-20006A - Probably only supports 12 LED  
+EPR-21262 - Supports 12 and 10 LED  
+TG12 - Supports 12 and 10 LED  
 
 Dumps of these firmware ROMs are available in many places online (including NAOMI BIOS sets or House of the Dead sets, however I have also included them here on this repository. I do not own the rights to this and I believe these would be owned by Sega.
 
