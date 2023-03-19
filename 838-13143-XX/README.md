@@ -41,13 +41,13 @@ Dumps of these firmware ROMs are available in many places online (including NAOM
 I have dumped my own chips and using the SHA-1 hashes have confirmed my original sense chips match the dumps available online. using PowerShell you can compare your own chip dumps to the online versions using the following SHA1 hashes and example command.
 
 SHA1 Hashes:
-hhh
-hhh
-hhh
+EPR-20006A - b7cf40a1671dc351b607d8d6bba0d51ea128eb75  
+EPR-21262 - fc2a331430ef2f009f653b242220599c824cd1d2  
+TG12 - 91813a43851c48d400fde41b1198dabf55bade2d  
 
 Example PowerShell command:
 
-
+get-filehash .\tg12.ic2 -Algorithm SHA1  
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
