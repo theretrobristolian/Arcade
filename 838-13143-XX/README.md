@@ -49,6 +49,8 @@ Example PowerShell command:
 
 get-filehash .\tg12.ic2 -Algorithm SHA1  
 
+ST M27C512-12FI 58808 9819E
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
