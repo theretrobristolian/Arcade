@@ -1,4 +1,4 @@
-# 838-13143-## - Sega Gun Sense Board
+# IC BD Gun Sense (838-13143-XX)
 <div id="top"></div>
 
 <!-- TABLE OF CONTENTS -->
@@ -30,7 +30,7 @@ Overall, the Sega Gun Sense Board was a critical component in many popular light
 <!-- FIRMWARE -->
 ## Firmware
 
-There are 3 known firmware revisions for the 838-13146 and 838-13143-## boards:
+There are 3 known firmware revisions for the 838-13146 and 838-13143-XX boards:
 
 EPR-20006A - Probably only supports 12 LED  
 EPR-21262 - Supports 12 and 10 LED  
