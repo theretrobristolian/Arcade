@@ -29,13 +29,13 @@ There were multiple attempts to revise the board design however over all the boa
 | 838-13143-03  | EPR-21262     | IC BD GUN SENSE HOD   | House of the Dead 2                | 1998              | 12 or 10 |
 | 838-13143-03A | EPR-21262     | IC BD GUN SENSE HOD   | House of the Dead 2                | 1998              | 12 or 10 |
 | 838-13143-04  | EPR-21262     | IC BD GUN SENSE HOD   | House of the Dead 2                | 1998              | 12 or 10 |
-| 838-13143-05  | EPR-21786A    | IC BD GUN SENSE FRQ   | Brave Fighters                     | 1999              | 12 or 10 |
+| 838-13143-05  | EPR-21786A    | IC BD GUN SENSE FRQ   | Brave Firefighters                 | 1999              | 12 or 10 |
 | 838-13143-06  | EPR-21262     | IC BD GUN SENSE JPT   | ?                                  |                   | 12 or 10 |
-| 838-13143-07  | ?             | ?                      | ?                                  |                   | 12 or 10 |
+| 838-13143-07  | ?             | ?                     | ?                                  |                   | 12 or 10 |
 | 838-13143-08  | TG12          | IC BD GUN SENSE SPY   | Confidential Mission               | 2000              | 12 or 10 |
 | 838-13143-09  | TG12          | IC BD GUN SENSE SPY UR| House of the Dead 3                | 2002              | 12 or 10 |
-| 838-13143-10  | ?             | ?                      | ?                                  |                   | 12 or 10 |
-| 838-13143-11  | ?             | ?                      | ?                                  |                   | 12 or 10 |
+| 838-13143-10  | ?             | ?                      | ?                                 |                   | 12 or 10 |
+| 838-13143-11  | ?             | ?                      | ?                                 |                   | 12 or 10 |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
