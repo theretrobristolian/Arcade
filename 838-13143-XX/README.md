@@ -1,21 +1,11 @@
 # IC BD Gun Sense (838-13143-XX)
 <div id="top"></div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#Summary">Summary</a>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
 <!-- SUMMARY-->
 ## Summary
+<img src="https://raw.githubusercontent.com/theretrobristolian/Arcade/main/838-13143-XX/Diagram.svg">
+
+Description: The above is a basic representation of the layout from the most common types of IC BD Gun Sense boards, the trough hole component type. This covers board A to B.
 
 The Sega Gun Sense Board 838-13143 is an arcade board developed by Sega in the 1990s to provide accurate aiming and shooting mechanics in light gun games. The board was first used in "The Lost World: Jurassic Park" arcade game in 1997, where it was paired with Sega's Type 2 (Type II) light gun.
 
