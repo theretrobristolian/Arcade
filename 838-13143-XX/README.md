@@ -22,21 +22,20 @@ Overall, the Sega Gun Sense Board was a critical component in many popular light
 
 There were multiple attempts to revise the board design however over all the boards look very similar so the changes must be minor (and at this stage I have no documentation to explain what they were). However I've created a table of the key knowledge I am aware of:
 
-| Board         | Firmware    | Shortname | Game                    | Game Release Date | LED Ring  |
-|---------------|-------------|-----------|-------------------------|-------------------|------------|
-| 838-13143-01  | EPR-20006A  | JPT       | IC BD GUN SENSE         | The Lost World: Jurassic Park | 1997 | 12 Only |
-| 838-13143-02  | EPR-20006A  | JPT       | IC BD GUN SENSE         | The Lost World: Jurassic Park | 1997 | 13 Only |
-| 838-13143-03  | EPR-21262   | HOD       | IC BD GUN SENSE HOD     | House of the Dead 2          | 1998 | 12 or 10 |
-| 838-13143-03A | EPR-21262   | HOD       | IC BD GUN SENSE HOD     | House of the Dead 2          | 1998 | 13 or 10 |
-| 838-13143-04  | EPR-21262   | HOD       | IC BD GUN SENSE HOD     | House of the Dead 2          | 1998 | 14 or 10 |
-| 838-13143-05  | EPR-21786A  | FRQ       | IC BD GUN SENSE FRQ     | Brave Fighters               | 1999 | 15 or 10 |
-| 838-13143-06  | EPR-21262   | JPT       | IC BD GUN SENSE JPT     | ?                            |      | 16 or 10 |
-| 838-13143-07  | ?           | ?         | ?                        | ?                            |      | 17 or 10 |
-| 838-13143-08  | TG12        | SPY       | IC BD GUN SENSE SPY     | Confidential Mission         | 2000 | 18 or 10 |
-| 838-13143-09  | TG12        | SPY UR    | IC BD GUN SENSE SPY UR  | House of the Dead 3          | 2002 | 19 or 10 |
-| 838-13143-10  | ?           | ?         | ?                        | ?                            |      | 20 or 10 |
-| 838-13143-11  | ?           | SPY UR EXTRA | ?                      | ?                            |      | 21 or 10 |
-
+| Board         | Firmware      | Fullname               | Game                               | Game Release Date | LED No.  |
+| ------------- | ------------- | --------------------- | ---------------------------------- | ----------------- | -------- |
+| 838-13143-01  | EPR-20006A    | IC BD GUN SENSE       | The Lost World: Jurassic Park      | 1997              | 12 Only  |
+| 838-13143-02  | EPR-20006A    | IC BD GUN SENSE       | The Lost World: Jurassic Park      | 1997              | 12 Only  |
+| 838-13143-03  | EPR-21262     | IC BD GUN SENSE HOD   | House of the Dead 2                | 1998              | 12 or 10 |
+| 838-13143-03A | EPR-21262     | IC BD GUN SENSE HOD   | House of the Dead 2                | 1998              | 12 or 10 |
+| 838-13143-04  | EPR-21262     | IC BD GUN SENSE HOD   | House of the Dead 2                | 1998              | 12 or 10 |
+| 838-13143-05  | EPR-21786A    | IC BD GUN SENSE FRQ   | Brave Fighters                     | 1999              | 12 or 10 |
+| 838-13143-06  | EPR-21262     | IC BD GUN SENSE JPT   | ?                                  |                   | 12 or 10 |
+| 838-13143-07  | ?             | ?                      | ?                                  |                   | 12 or 10 |
+| 838-13143-08  | TG12          | IC BD GUN SENSE SPY   | Confidential Mission               | 2000              | 12 or 10 |
+| 838-13143-09  | TG12          | IC BD GUN SENSE SPY UR| House of the Dead 3                | 2002              | 12 or 10 |
+| 838-13143-10  | ?             | ?                      | ?                                  |                   | 12 or 10 |
+| 838-13143-11  | ?             | ?                      | ?                                  |                   | 12 or 10 |
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
