@@ -5,7 +5,7 @@
 ## Summary
 <img src="https://raw.githubusercontent.com/theretrobristolian/Arcade/main/838-13143-XX/838-13143-XX.svg">
 
-Description: The above is a basic representation of the layout from the most common types of IC BD Gun Sense boards, the trough hole component type. This covers board A to B.
+The above is a basic representation showing the layout of the most common type of IC BD Gun Sense boards - the throughhole component type. This covers boards 838-13143-03 to 838-13143-11. 838-13143-01 and 838-13143-02 are believed to be an earlier, slightly different layout due to the lack of HOD/JUL DIP switch.
 
 The Sega Gun Sense Board 838-13143 is an arcade board developed by Sega in the 1990s to provide accurate aiming and shooting mechanics in light gun games. The board was first used in "The Lost World: Jurassic Park" arcade game in 1997, where it was paired with Sega's Type 2 (Type II) light gun.
 
@@ -19,6 +19,23 @@ Overall, the Sega Gun Sense Board was a critical component in many popular light
 
 <!-- BOARDREVISIONS -->
 ## Board Revisions
+
+There were multiple attempts to revise the board design however over all the boards look very similar so the changes must be minor (and at this stage I have no documentation to explain what they were). However I've created a table of the key knowledge I am aware of:
+
+| Board         | Firmware    | Shortname | Game                    | Game Release Date | LED Ring  |
+|---------------|-------------|-----------|-------------------------|-------------------|------------|
+| 838-13143-01  | EPR-20006A  | JPT       | IC BD GUN SENSE         | The Lost World: Jurassic Park | 1997 | 12 Only |
+| 838-13143-02  | EPR-20006A  | JPT       | IC BD GUN SENSE         | The Lost World: Jurassic Park | 1997 | 13 Only |
+| 838-13143-03  | EPR-21262   | HOD       | IC BD GUN SENSE HOD     | House of the Dead 2          | 1998 | 12 or 10 |
+| 838-13143-03A | EPR-21262   | HOD       | IC BD GUN SENSE HOD     | House of the Dead 2          | 1998 | 13 or 10 |
+| 838-13143-04  | EPR-21262   | HOD       | IC BD GUN SENSE HOD     | House of the Dead 2          | 1998 | 14 or 10 |
+| 838-13143-05  | EPR-21786A  | FRQ       | IC BD GUN SENSE FRQ     | Brave Fighters               | 1999 | 15 or 10 |
+| 838-13143-06  | EPR-21262   | JPT       | IC BD GUN SENSE JPT     | ?                            |      | 16 or 10 |
+| 838-13143-07  | ?           | ?         | ?                        | ?                            |      | 17 or 10 |
+| 838-13143-08  | TG12        | SPY       | IC BD GUN SENSE SPY     | Confidential Mission         | 2000 | 18 or 10 |
+| 838-13143-09  | TG12        | SPY UR    | IC BD GUN SENSE SPY UR  | House of the Dead 3          | 2002 | 19 or 10 |
+| 838-13143-10  | ?           | ?         | ?                        | ?                            |      | 20 or 10 |
+| 838-13143-11  | ?           | SPY UR EXTRA | ?                      | ?                            |      | 21 or 10 |
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
