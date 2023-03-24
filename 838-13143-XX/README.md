@@ -3,7 +3,7 @@
 
 <!-- SUMMARY-->
 ## Summary
-<img src="https://raw.githubusercontent.com/theretrobristolian/Arcade/main/838-13143-XX/Diagram.svg">
+<img src="https://raw.githubusercontent.com/theretrobristolian/Arcade/main/838-13143-XX/diagram1.svg">
 
 Description: The above is a basic representation of the layout from the most common types of IC BD Gun Sense boards, the trough hole component type. This covers board A to B.
 
