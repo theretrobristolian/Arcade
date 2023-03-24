@@ -3,7 +3,7 @@
 
 <!-- SUMMARY-->
 ## Summary
-<img src="https://raw.githubusercontent.com/theretrobristolian/Arcade/main/838-13143-XX/diagram1.svg">
+<img src="https://raw.githubusercontent.com/theretrobristolian/Arcade/main/838-13143-XX/838-13143-XX.svg">
 
 Description: The above is a basic representation of the layout from the most common types of IC BD Gun Sense boards, the trough hole component type. This covers board A to B.
 
@@ -14,6 +14,12 @@ Over the years, Sega released several revisions of the Gun Sense Board. The init
 The technology was based on a design by a Japaneese company OHMIC, the link to this is here http://www.ohmic.co.jp/cat/zahyou-01.html
 
 Overall, the Sega Gun Sense Board was a critical component in many popular light gun arcade games and contributed to the success of the genre during the 1990s and early 2000s.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- BOARDREVISIONS -->
+## Board Revisions
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -45,6 +51,15 @@ EPROMS known to be used and compatible:
 ST M27C512-12FI 58808 9819E  
 
 
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- LEDARRANGEMENT -->
+## LED Arrangement
+
+<img src="https://raw.githubusercontent.com/theretrobristolian/Arcade/main/838-13143-XX/10LED.svg">
+<img src="https://raw.githubusercontent.com/theretrobristolian/Arcade/main/838-13143-XX/12LED.svg">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
