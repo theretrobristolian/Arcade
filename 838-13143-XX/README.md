@@ -42,10 +42,11 @@ There were multiple attempts to revise the board design however over all the boa
 <!-- FIRMWARE -->
 ## Firmware
 
-There are 3 known firmware revisions for the 838-13146 and 838-13143-XX boards:
+There are 4 known firmware revisions for the 838-13146 and 838-13143-XX boards:
 
 EPR-20006A - Probably only supports 12 LED  
 EPR-21262 - Supports 12 and 10 LED  
+EPR-21786A - Which at this stage is a somewhat rare and undocumented firmware used for Brave Firefighters - this may have something uniquie it it for that game
 TG12 - Supports 12 and 10 LED  
 
 Dumps of these firmware ROMs are available in many places online (including NAOMI BIOS sets or House of the Dead sets, however I have also included them here on this repository. I do not own the rights to this and I believe these would be owned by Sega.
@@ -54,13 +55,19 @@ I have dumped my own chips and using the SHA-1 hashes have confirmed my original
 
 SHA1 Hashes:  
 
-EPR-20006A - b7cf40a1671dc351b607d8d6bba0d51ea128eb75  
-EPR-21262 - fc2a331430ef2f009f653b242220599c824cd1d2  
-TG12 - 91813a43851c48d400fde41b1198dabf55bade2d  
+| Firmware    | SHA1 Hash                                      |
+|-------------|------------------------------------------------|
+| EPR-20006A  | b7cf40a1671dc351b607d8d6bba0d51ea128eb75         |
+| EPR-21262   | fc2a331430ef2f009f653b242220599c824cd1d2         |
+| EPR-21786A  |                                                |
+| TG12        | 91813a43851c48d400fde41b1198dabf55bade2d         |
+
 
 Example PowerShell command:
 
-get-filehash .\tg12.ic2 -Algorithm SHA1  
+`get-filehash .\tg12.ic2 -Algorithm SHA1`
+
+
 
 EPROMS known to be used and compatible:
 
