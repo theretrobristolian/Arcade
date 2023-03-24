@@ -57,9 +57,10 @@ viewBox="0 0 29700 21000"
     .str1 {stroke-width:16.5}
     .str0 {stroke:black;stroke-width:25}
     .str2 {stroke:black;stroke-width:7.62}
-    .fil0 {fill:none}
+    .fil1 {fill:none}
+    .fil0 {fill:#FEFEFE}
+    .fil3 {fill:#2B2A29}
     .fil2 {fill:#2B2A29}
-    .fil1 {fill:#2B2A29}
     .fnt6 {font-weight:bold;font-size:147.65px;font-family:'Arial'}
     .fnt2 {font-weight:bold;font-size:184.67px;font-family:'Arial'}
     .fnt9 {font-weight:bold;font-size:191.25px;font-family:'Arial'}
@@ -77,108 +78,108 @@ viewBox="0 0 29700 21000"
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
   <rect class="fil0 str0" x="5600" y="2500" width="18500" height="16000"/>
-  <rect class="fil0 str0" x="6485" y="2599" width="580" height="1750"/>
-  <rect class="fil0 str0" x="5713" y="4054" width="580" height="990"/>
-  <rect class="fil0 str0" x="5713" y="5280" width="580" height="730"/>
-  <rect class="fil0 str0" x="5713" y="6248" width="580" height="2500"/>
-  <rect class="fil0 str0" x="6330" y="11365" width="580" height="2000"/>
-  <rect class="fil0 str0" x="6330" y="14664" width="580" height="2000"/>
-  <rect class="fil0 str0" x="7585" y="5403" width="1005" height="1676"/>
-  <rect class="fil0 str0" x="9208" y="5086" width="1826" height="2760"/>
-  <rect class="fil0 str0" x="20735" y="2687" width="1940" height="5768"/>
-  <rect class="fil0 str0" x="23028" y="6568" width="617" height="758"/>
-  <rect class="fil0 str0" x="17200" y="3922" width="1420" height="3757"/>
-  <text x="13722" y="18252"  class="fil1 str2 fnt0">838-13143-09 IC BD GUN SENSE SPY UR</text>
-  <rect class="fil0 str0" x="13635" y="17777" width="9137" height="620"/>
-  <rect class="fil0 str0" x="7146" y="11374" width="635" height="1923"/>
-  <rect class="fil0 str0" x="7146" y="14670" width="635" height="1923"/>
-  <circle class="fil0 str0" cx="8538" cy="8071" r="400"/>
-  <circle class="fil0 str0" cx="7443" cy="7927" r="400"/>
-  <circle class="fil0 str0" cx="17558" cy="3267" r="315"/>
-  <circle class="fil0 str0" cx="18781" cy="3503" r="315"/>
-  <circle class="fil0 str0" cx="8308" cy="4184" r="315"/>
-  <circle class="fil0 str0" cx="8326" cy="5033" r="315"/>
+  <rect class="fil1 str0" x="6485" y="2599" width="580" height="1750"/>
+  <rect class="fil1 str0" x="5713" y="4054" width="580" height="990"/>
+  <rect class="fil1 str0" x="5713" y="5280" width="580" height="730"/>
+  <rect class="fil1 str0" x="5713" y="6248" width="580" height="2500"/>
+  <rect class="fil1 str0" x="6330" y="11365" width="580" height="2000"/>
+  <rect class="fil1 str0" x="6330" y="14664" width="580" height="2000"/>
+  <rect class="fil1 str0" x="7585" y="5403" width="1005" height="1676"/>
+  <rect class="fil1 str0" x="9208" y="5086" width="1826" height="2760"/>
+  <rect class="fil1 str0" x="20735" y="2687" width="1940" height="5768"/>
+  <rect class="fil1 str0" x="23028" y="6568" width="617" height="758"/>
+  <rect class="fil1 str0" x="17200" y="3922" width="1420" height="3757"/>
+  <text x="13722" y="18252"  class="fil2 str2 fnt0">838-13143-09 IC BD GUN SENSE SPY UR</text>
+  <rect class="fil1 str0" x="13635" y="17777" width="9137" height="620"/>
+  <rect class="fil1 str0" x="7146" y="11374" width="635" height="1923"/>
+  <rect class="fil1 str0" x="7146" y="14670" width="635" height="1923"/>
+  <circle class="fil1 str0" cx="8538" cy="8071" r="400"/>
+  <circle class="fil1 str0" cx="7443" cy="7927" r="400"/>
+  <circle class="fil1 str0" cx="17558" cy="3267" r="315"/>
+  <circle class="fil1 str0" cx="18781" cy="3503" r="315"/>
+  <circle class="fil1 str0" cx="8308" cy="4184" r="315"/>
+  <circle class="fil1 str0" cx="8326" cy="5033" r="315"/>
   <g transform="matrix(2.64845E-14 1 -1.57292 2.64845E-14 26713.9 -8392.17)">
-   <text x="13645" y="10500"  class="fil1 fnt1">DC-DC CONVERTER</text>
+   <text x="13645" y="10500"  class="fil2 fnt1">DC-DC CONVERTER</text>
   </g>
   <g transform="matrix(2.64845E-14 1 -1.57292 2.64845E-14 26713.9 -8392.17)">
-   <text x="14158" y="10775"  class="fil1 fnt1">RM1R51205</text>
+   <text x="14158" y="10775"  class="fil2 fnt1">RM1R51205</text>
   </g>
-  <rect class="fil0 str0" x="23182" y="6718" width="70.56" height="476.25"/>
-  <rect class="fil0 str0" x="23424" y="6718" width="70.56" height="476.25"/>
-  <text x="22889" y="7605"  class="fil1 fnt2">SW1</text>
-  <text x="22986" y="7811"  class="fil1 fnt2">29</text>
-  <text x="22986" y="8018"  class="fil1 fnt2">50</text>
-  <text x="23392" y="7598"  class="fil1 fnt2">SW2</text>
-  <text x="23387" y="7805"  class="fil1 fnt2">HOD</text>
-  <text x="23417" y="8011"  class="fil1 fnt2">JUL</text>
+  <rect class="fil1 str0" x="23182" y="6718" width="70.56" height="476.25"/>
+  <rect class="fil1 str0" x="23424" y="6718" width="70.56" height="476.25"/>
+  <text x="22889" y="7605"  class="fil2 fnt2">SW1</text>
+  <text x="22986" y="7811"  class="fil2 fnt2">29</text>
+  <text x="22986" y="8018"  class="fil2 fnt2">50</text>
+  <text x="23392" y="7598"  class="fil2 fnt2">SW2</text>
+  <text x="23387" y="7805"  class="fil2 fnt2">HOD</text>
+  <text x="23417" y="8011"  class="fil2 fnt2">JUL</text>
   <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 32544.2 -10545.6)">
-   <text x="14850" y="10500"  class="fil1 fnt3">NEC JAPAN</text>
-  </g>
-  <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 32544.2 -10545.6)">
-   <text x="14850" y="10999"  class="fil1 fnt3">D78213CW</text>
+   <text x="14850" y="10500"  class="fil2 fnt3">NEC JAPAN</text>
   </g>
   <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 32544.2 -10545.6)">
-   <text x="14850" y="11499"  class="fil1 fnt3">0146MY001</text>
+   <text x="14850" y="10999"  class="fil2 fnt3">D78213CW</text>
+  </g>
+  <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 32544.2 -10545.6)">
+   <text x="14850" y="11499"  class="fil2 fnt3">0146MY001</text>
   </g>
   <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 32544.2 -10545.6)">
   </g>
   <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 28250.6 -10547.7)">
-   <text x="14850" y="10500"  class="fil1 fnt4">TG12</text>
+   <text x="14850" y="10500"  class="fil2 fnt4">TG12</text>
   </g>
   <g transform="matrix(0.871228 0 0 1 5560.17 -3965.2)">
-   <text x="13857" y="10500"  class="fil1 fnt5">M27C512</text>
+   <text x="13857" y="10500"  class="fil2 fnt5">M27C512</text>
   </g>
   <g transform="matrix(0.871228 0 0 1 5560.17 -3965.2)">
-   <text x="14252" y="10756"  class="fil1 fnt5">-10F1</text>
+   <text x="14252" y="10756"  class="fil2 fnt5">-10F1</text>
   </g>
   <g transform="matrix(0.871228 0 0 1 5560.17 -3965.2)">
-   <text x="14188" y="11011"  class="fil1 fnt5">8882X</text>
+   <text x="14188" y="11011"  class="fil2 fnt5">8882X</text>
   </g>
   <g transform="matrix(0.871228 0 0 1 5560.17 -3965.2)">
-   <text x="14201" y="11267"  class="fil1 fnt5">0130L</text>
+   <text x="14201" y="11267"  class="fil2 fnt5">0130L</text>
   </g>
   <g transform="matrix(0.871228 0 0 1 5560.17 -3965.2)">
-   <text x="13476" y="11523"  class="fil1 fnt5">SINGAPORE</text>
+   <text x="13476" y="11523"  class="fil2 fnt5">SINGAPORE</text>
   </g>
-  <text x="7656" y="6625"  class="fil1 str2 fnt6">NEC JAPAN</text>
-  <text x="7656" y="6790"  class="fil1 str2 fnt6">78G5A</text>
-  <text x="7656" y="6955"  class="fil1 str2 fnt6">0151U</text>
+  <text x="7656" y="6625"  class="fil2 str2 fnt6">NEC JAPAN</text>
+  <text x="7656" y="6790"  class="fil2 str2 fnt6">78G5A</text>
+  <text x="7656" y="6955"  class="fil2 str2 fnt6">0151U</text>
   <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 17094.4 -11886.3)">
-   <text x="14850" y="10500"  class="fil1 fnt7">LED</text>
+   <text x="14850" y="10500"  class="fil2 fnt7">LED</text>
   </g>
   <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 16322.4 -10775.2)">
-   <text x="14850" y="10500"  class="fil1 fnt7">CN1</text>
+   <text x="14850" y="10500"  class="fil2 fnt7">CN1</text>
   </g>
   <g transform="matrix(2.64845E-14 1 -1.86646 2.64845E-14 25420.3 -9482.85)">
-   <text x="14850" y="10500"  class="fil1 fnt8">VCC</text>
+   <text x="14850" y="10500"  class="fil2 fnt8">VCC</text>
   </g>
   <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 16322.7 -7888.65)">
-   <text x="14850" y="10500"  class="fil1 fnt7">OUT</text>
+   <text x="14850" y="10500"  class="fil2 fnt7">OUT</text>
   </g>
   <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 16939.9 -3352.28)">
-   <text x="14850" y="10500"  class="fil1 fnt7">GUN1P</text>
+   <text x="14850" y="10500"  class="fil2 fnt7">GUN1P</text>
   </g>
   <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 16939.9 -53.8214)">
-   <text x="14850" y="10500"  class="fil1 fnt7">GUN2P</text>
+   <text x="14850" y="10500"  class="fil2 fnt7">GUN2P</text>
   </g>
   <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 18001.8 -2511.08)">
-   <text x="14156" y="10500"  class="fil1 fnt9">JAPAN 0148HC</text>
+   <text x="14156" y="10500"  class="fil2 fnt9">JAPAN 0148HC</text>
   </g>
   <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 18001.8 -2511.08)">
-   <text x="14377" y="10714"  class="fil1 fnt9">TC4066BP</text>
+   <text x="14377" y="10714"  class="fil2 fnt9">TC4066BP</text>
   </g>
   <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 18001.8 784.106)">
-   <text x="14156" y="10500"  class="fil1 fnt9">JAPAN 0148HC</text>
+   <text x="14156" y="10500"  class="fil2 fnt9">JAPAN 0148HC</text>
   </g>
   <g transform="matrix(2.64845E-14 1 -1 2.64845E-14 18001.8 784.106)">
-   <text x="14377" y="10714"  class="fil1 fnt9">TC4066BP</text>
+   <text x="14377" y="10714"  class="fil2 fnt9">TC4066BP</text>
   </g>
-  <text x="17469" y="2940"  class="fil2 fnt10">+</text>
-  <text x="18682" y="3178"  class="fil2 fnt10">+</text>
-  <text x="8215" y="3857"  class="fil2 fnt10">+</text>
-  <text x="8239" y="4734"  class="fil2 fnt10">+</text>
-  <text x="8473" y="7680"  class="fil2 fnt10">+</text>
-  <text x="7335" y="7539"  class="fil2 fnt10">+</text>
+  <text x="17469" y="2940"  class="fil3 fnt10">+</text>
+  <text x="18682" y="3178"  class="fil3 fnt10">+</text>
+  <text x="8215" y="3857"  class="fil3 fnt10">+</text>
+  <text x="8239" y="4734"  class="fil3 fnt10">+</text>
+  <text x="8473" y="7680"  class="fil3 fnt10">+</text>
+  <text x="7335" y="7539"  class="fil3 fnt10">+</text>
  </g>
 </svg>
