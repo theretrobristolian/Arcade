@@ -46,7 +46,7 @@ There are 4 known firmware revisions for the 838-13146 and 838-13143-XX boards:
 
 EPR-20006A - Probably only supports 12 LED  
 EPR-21262 - Supports 12 and 10 LED  
-EPR-21786A - Which at this stage is a somewhat rare and undocumented firmware used for Brave Firefighters - this may have something uniquie it it for that game
+EPR-21786A - Which at this stage is a somewhat rare and undocumented firmware used for Brave Firefighters - this may have something uniquie it it for that game  
 TG12 - Supports 12 and 10 LED  
 
 Dumps of these firmware ROMs are available in many places online (including NAOMI BIOS sets or House of the Dead sets, however I have also included them here on this repository. I do not own the rights to this and I believe these would be owned by Sega.
@@ -67,12 +67,17 @@ Example PowerShell command:
 
 `get-filehash .\tg12.ic2 -Algorithm SHA1`
 
+<!-- Firmware EPROMs -->
+## Firmware EPROMs
 
+The Firmware ROM dumps are 64KB each which is 512000 bits, so the original EPROMs were 512K. In my limited research I have found the following EPROMS to have been used:
 
-EPROMS known to be used and compatible:
+ST M27C512-12FI 5880S 9819E  
+ST M27C512-12FI 5880S 0070X  
+ST M27C512-10FI 8882X 0130L  
+ST M27C512-15FI B8886 9609E 
 
-ST M27C512-12FI 58808 9819E  
-
+This would seem to suggest 150ns or quicker is acceptable.
 
 
 
